@@ -1,0 +1,10 @@
+<a href="http://forums.udacity.com/users/100060026/amber-jain"><a href="http://forums.udacity.com/users/100060026/amber-jain">@Amber</a></a>, I tried to contact you, but with no success (maybe I am filtered as spam). So for anyone interested here is the full list -- the videos with solutions are not included here (on purpose). </p>	
+I submitted my code and "got it right". Then I watched Sebastian's answer and noticed I hadn't moved the two lines that move the robot and get the sensor data down into the loop. When I do that and make the code correct, I get the problem "incorrect".</p>	
+In order to prevent avalanche of "incorrect grading" posts, here you can find all correct solutions for homework #2, together with their explanations. Before posting "incorrect grading" question, please check:</p>	
+[<strong><em>UPDATE 4 June, 12:02 PST: There is disagreement whether Peter's solution for Example 6 is correct. At first I convinced myself that he was right. But now I am 99% sure his solution is wrong. <br>	
+2012-04-28 18:12:07 Running command: "['C:\Python27\python.exe', 'C:\Program Files (x86)\Google\google_appengine\dev_appserver.py', '--admin_console_server=', '--port=8081', 'D:\google app\engineapp']"<br>	
+Python newbie's journey to build his first webapp (app link: <a href="http://contractpy.appspot.com/" rel="nofollow">http://contractpy.appspot.com/</a> - it's just an experimental app). </p>	
+I combined all the test cases I could find and put them in a format using assets as Jon Georgsson did in another thread.  (I am not sure why the formated below turned out as it did.) </p>	
+As promised I made some tests: the results are encouraging; these, for example, are the results on an average of 50 tests with 50 particles</p>	
+Here is a doctest I created for this problem. It shows all 256 possible solutions for a specific test string. </p>	
+Thanks for pointing out the way to debug. I am still learning python, so I will try to debug it later. <br>	
